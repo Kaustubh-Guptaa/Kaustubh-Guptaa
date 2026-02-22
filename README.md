@@ -8,11 +8,11 @@
 
 <p align = "center">
 <a href="https://www.linkedin.com/in/kaustubhguptaaa/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png"/>
 </a> 
 
 <a href="https://medium.com/@kaustubh.r.gupta/about">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+  <img height="50" src="https://static.vecteezy.com/system/resources/previews/072/105/194/non_2x/medium-logo-medium-white-icon-in-transparent-background-free-png.png"/>
 </a>
 </p>
 
