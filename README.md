@@ -26,26 +26,24 @@ located_in: India
 current_job: Data Scientist 
 education:
   [
-    "Executive Post Graduate Certification in Data Science & Artificial Intelligence",
+    "Master's in Data Science & Engineering",
     "Bachelor's in Computer Science & Engineering",
   ]
 company: Antarctica Global Technology and Consulting
 
 fields_of_interests:
   [
-    "Data Science",
-    "AI and ML",
-    "Data Engineering",
-    "MLOps",
+    "Data Science", "AI/ML",
+    "Data Engineering", "MLOps",
     "Cloud"
   ]
 
 current_technical_focus:
   [
+    "Agentic AI", "RAG",
     "LLM Deployment and Inference"
     "Time-Series Forecasting",
     "Data Pipelines",
-    "Research"
   ]
 ```
   
